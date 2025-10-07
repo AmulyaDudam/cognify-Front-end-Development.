@@ -1,0 +1,21 @@
+
+/* Smooth background color transition */
+body {
+  transition: background-color 0.4s ease;
+}
+
+/* Feedback message styles */
+#formFeedback {
+  font-weight: 600;
+}
+
+/* Customize navbar brand font */
+.navbar-brand {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.5rem;
+}
+
+/* Additional spacing */
+h1, h2 {
+  color: #0d6efd; /* Bootstrap primary color */
+}
